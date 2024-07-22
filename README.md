@@ -30,5 +30,5 @@ remove_blue = False  # Set to True if you want to remove blue color
 ## 2. Run the Script:
 Execute the script to process the images:
 ```
-python Crop_image.py
+python crop_images.py
 ```
